@@ -1,3 +1,5 @@
+![CI](https://github.com/Griffindeetox/docker-mini/actions/workflows/ci.yml/badge.svg)
+
 # docker-mini (Node + Redis via Docker Compose)
 
 A tiny service that demonstrates container best practices:
